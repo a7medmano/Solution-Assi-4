@@ -80,10 +80,5 @@ class Program
         }
         catch (Exception ex)
         {
-            Console.WriteLine("Error: " + ex.Message);
-        }
-    }
-}
-
-
-5. في `Main` بنستخدم `try/catch` علشان نتعامل مع النتيجة.
+            Console.WriteLine("Error: " + ex.Message   
+    
